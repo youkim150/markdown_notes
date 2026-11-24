@@ -2,7 +2,7 @@ The following tutorial takes great inspiration from [Dr. Tompkins STAT545 course
 ## Installing R and RStudio
 R and RStudio The main programming language used in the class is R and our main IDE (a text editor with helpful features for writing and running code) is RStudio. The following instructions are adapted from [Chapter 5 of Jenny Bryan’s “happy git” book](https://happygitwithr.com/install-r-rstudio.html).
 
-1. Install (or update to) the latest release R on your computer (4.5.1 currently):
+1. Install (or update to) the latest release R on your computer (4.6.2 currently):
 
 - Windows: [https://cran.r-project.org/bin/windows/base/](https://cran.r-project.org/bin/windows/base/)
 
